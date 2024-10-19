@@ -1,0 +1,987 @@
+fileFormatVersion: 2
+guid: badc57f28f50e264eb5518ccf9453d1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5991674555136542556
+    second: Box_multi_0
+  - first:
+      213: 1649107165570866767
+    second: Box_multi_1
+  - first:
+      213: 2226998727278777807
+    second: Box_multi_2
+  - first:
+      213: 7177173709843892296
+    second: Box_multi_3
+  - first:
+      213: 8609565249200835750
+    second: Box_multi_4
+  - first:
+      213: 563373892779790431
+    second: Box_multi_5
+  - first:
+      213: -7779534858810073172
+    second: Box_multi_6
+  - first:
+      213: -8358468901664098022
+    second: Box_multi_7
+  - first:
+      213: -5749147770952226594
+    second: Box_multi_8
+  - first:
+      213: -3055118587612977789
+    second: Box_multi_9
+  - first:
+      213: -2461635332780925760
+    second: Box_multi_10
+  - first:
+      213: 2974715527364352107
+    second: Box_multi_11
+  - first:
+      213: 6497470901339905959
+    second: Box_multi_12
+  - first:
+      213: 7609098756554352710
+    second: Box_multi_13
+  - first:
+      213: 5785050615227901140
+    second: Box_multi_14
+  - first:
+      213: -1422715278749526308
+    second: Box_multi_15
+  - first:
+      213: -4732690175382850940
+    second: Box_multi_16
+  - first:
+      213: -700882063075852432
+    second: Box_multi_17
+  - first:
+      213: 1380543820507755501
+    second: Box_multi_18
+  - first:
+      213: 4436631717860382945
+    second: Box_multi_19
+  - first:
+      213: 3602170112353011193
+    second: Box_multi_20
+  - first:
+      213: 6235012803491501917
+    second: Box_multi_21
+  - first:
+      213: -3830354357345361576
+    second: Box_multi_22
+  - first:
+      213: -7935963864109688848
+    second: Box_multi_23
+  - first:
+      213: 9005239844481141067
+    second: Box_multi_24
+  - first:
+      213: 6318736269487336873
+    second: Box_multi_25
+  - first:
+      213: -7983541999432700779
+    second: Box_multi_26
+  - first:
+      213: 3449217257828489370
+    second: Box_multi_27
+  - first:
+      213: -3277787922053864626
+    second: Box_multi_28
+  - first:
+      213: -7155747257440595270
+    second: Box_multi_29
+  - first:
+      213: 287677989340204425
+    second: Box_multi_30
+  - first:
+      213: -4545733189352588497
+    second: Box_multi_31
+  - first:
+      213: 3986416133090410969
+    second: Box_multi_32
+  - first:
+      213: -3641386101354884940
+    second: Box_multi_33
+  - first:
+      213: -7591870387220479504
+    second: Box_multi_34
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Box_multi_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 89
+        width: 888
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5709ac3344b62350800000000000000
+      internalID: 5991674555136542556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e1760da3ec2e610800000000000000
+      internalID: 1649107165570866767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5d2b61b83e7ee10800000000000000
+      internalID: 2226998727278777807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 92
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848848a76717a9360800000000000000
+      internalID: 7177173709843892296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 102
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acc92d8af15b7770800000000000000
+      internalID: 8609565249200835750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 112
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f505ed2129181d700800000000000000
+      internalID: 563373892779790431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 106
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf5bde734a890490800000000000000
+      internalID: -7779534858810073172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 105
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19792aa1d0c00c80800000000000000
+      internalID: -8358468901664098022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_8
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 111
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8e927009ce630b0800000000000000
+      internalID: -5749147770952226594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385a2aec4d90a95d0800000000000000
+      internalID: -3055118587612977789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 107
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccda0705b386ddd0800000000000000
+      internalID: -2461635332780925760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 109
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68146ce200584920800000000000000
+      internalID: 2974715527364352107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 109
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af5dc41c57ab2a50800000000000000
+      internalID: 6497470901339905959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648e94d1103f89960800000000000000
+      internalID: 7609098756554352710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4605052e0a84050800000000000000
+      internalID: 5785050615227901140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_15
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd61d99edff714ce0800000000000000
+      internalID: -1422715278749526308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_16
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482f2504c5b125eb0800000000000000
+      internalID: -4732690175382850940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_17
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fbbe02a77f546f0800000000000000
+      internalID: -700882063075852432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_18
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3b9325a4da82310800000000000000
+      internalID: 1380543820507755501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_19
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 96
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e89c468a05129d30800000000000000
+      internalID: 4436631717860382945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_20
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 109
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5845fc1aa7df130800000000000000
+      internalID: 3602170112353011193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_21
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d579f1a3c17378650800000000000000
+      internalID: 6235012803491501917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8516f8e8109d7dac0800000000000000
+      internalID: -3830354357345361576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_23
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7d76189eacdd190800000000000000
+      internalID: -7935963864109688848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_24
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b490e7f3de909fc70800000000000000
+      internalID: 9005239844481141067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_25
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 101
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad6b24b829a0b750800000000000000
+      internalID: 6318736269487336873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 111
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ce662a9d2c43190800000000000000
+      internalID: -7983541999432700779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_27
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98930e32d41edf20800000000000000
+      internalID: 3449217257828489370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_28
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43e9e85045f282d0800000000000000
+      internalID: -3277787922053864626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_29
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 106
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab217c938cda1bc90800000000000000
+      internalID: -7155747257440595270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_30
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 106
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d425c6b990ef300800000000000000
+      internalID: 287677989340204425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_31
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b7fe4afbf4ae0c0800000000000000
+      internalID: -4545733189352588497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_32
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 105
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d18db32a58925730800000000000000
+      internalID: 3986416133090410969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_33
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b092ba32a2377dc0800000000000000
+      internalID: -3641386101354884940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_multi_34
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f18ae43b1244a690800000000000000
+      internalID: -7591870387220479504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Box_multi_0: 5991674555136542556
+      Box_multi_1: 1649107165570866767
+      Box_multi_10: -2461635332780925760
+      Box_multi_11: 2974715527364352107
+      Box_multi_12: 6497470901339905959
+      Box_multi_13: 7609098756554352710
+      Box_multi_14: 5785050615227901140
+      Box_multi_15: -1422715278749526308
+      Box_multi_16: -4732690175382850940
+      Box_multi_17: -700882063075852432
+      Box_multi_18: 1380543820507755501
+      Box_multi_19: 4436631717860382945
+      Box_multi_2: 2226998727278777807
+      Box_multi_20: 3602170112353011193
+      Box_multi_21: 6235012803491501917
+      Box_multi_22: -3830354357345361576
+      Box_multi_23: -7935963864109688848
+      Box_multi_24: 9005239844481141067
+      Box_multi_25: 6318736269487336873
+      Box_multi_26: -7983541999432700779
+      Box_multi_27: 3449217257828489370
+      Box_multi_28: -3277787922053864626
+      Box_multi_29: -7155747257440595270
+      Box_multi_3: 7177173709843892296
+      Box_multi_30: 287677989340204425
+      Box_multi_31: -4545733189352588497
+      Box_multi_32: 3986416133090410969
+      Box_multi_33: -3641386101354884940
+      Box_multi_34: -7591870387220479504
+      Box_multi_4: 8609565249200835750
+      Box_multi_5: 563373892779790431
+      Box_multi_6: -7779534858810073172
+      Box_multi_7: -8358468901664098022
+      Box_multi_8: -5749147770952226594
+      Box_multi_9: -3055118587612977789
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
