@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: d2ae5daf1a58f214ba2a3afa48355644
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1309184658264172356
+    second: Home_w_BROKEN_0
+  - first:
+      213: 1374045075629519245
+    second: Home_w_BROKEN_1
+  - first:
+      213: 2311583351849690901
+    second: Home_w_BROKEN_2
+  - first:
+      213: 1261983305545163375
+    second: Home_w_BROKEN_3
+  - first:
+      213: 914772060521883691
+    second: Home_w_BROKEN_4
+  - first:
+      213: 8750063691444718347
+    second: Home_w_BROKEN_5
+  - first:
+      213: 6522130142413234835
+    second: Home_w_BROKEN_6
+  - first:
+      213: 47583736791389650
+    second: Home_w_BROKEN_7
+  - first:
+      213: -1966771632900581910
+    second: Home_w_BROKEN_8
+  - first:
+      213: -8517546199913622186
+    second: Home_w_BROKEN_9
+  - first:
+      213: 3907743161170594565
+    second: Home_w_BROKEN_10
+  - first:
+      213: -7787007670419853506
+    second: Home_w_BROKEN_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Home_w_BROKEN_0
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1384
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8d5ca5d77d4dde0800000000000000
+      internalID: -1309184658264172356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home_w_BROKEN_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1002
+        width: 340
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81b54e57b6911310800000000000000
+      internalID: 1374045075629519245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home_w_BROKEN_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1129
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51725bbafc4641020800000000000000
+      internalID: 2311583351849690901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home_w_BROKEN_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1115
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f622e7f4127738110800000000000000
+      internalID: 1261983305545163375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home_w_BROKEN_4
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1071
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28ebd5a75ce1bc00800000000000000
+      internalID: 914772060521883691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home_w_BROKEN_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 975
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b0b9a41987e6970800000000000000
+      internalID: 8750063691444718347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home_w_BROKEN_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 995
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392a86d0fc2438a50800000000000000
+      internalID: 6522130142413234835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home_w_BROKEN_7
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 989
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d55980182d09a000800000000000000
+      internalID: 47583736791389650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home_w_BROKEN_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 996
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae555aace9f94b4e0800000000000000
+      internalID: -1966771632900581910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home_w_BROKEN_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 964
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6559b2cebd89bc980800000000000000
+      internalID: -8517546199913622186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home_w_BROKEN_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 979
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b090373b71b3630800000000000000
+      internalID: 3907743161170594565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home_w_BROKEN_11
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 935
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fe165f7cdfee390800000000000000
+      internalID: -7787007670419853506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Home_w_BROKEN_0: -1309184658264172356
+      Home_w_BROKEN_1: 1374045075629519245
+      Home_w_BROKEN_10: 3907743161170594565
+      Home_w_BROKEN_11: -7787007670419853506
+      Home_w_BROKEN_2: 2311583351849690901
+      Home_w_BROKEN_3: 1261983305545163375
+      Home_w_BROKEN_4: 914772060521883691
+      Home_w_BROKEN_5: 8750063691444718347
+      Home_w_BROKEN_6: 6522130142413234835
+      Home_w_BROKEN_7: 47583736791389650
+      Home_w_BROKEN_8: -1966771632900581910
+      Home_w_BROKEN_9: -8517546199913622186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

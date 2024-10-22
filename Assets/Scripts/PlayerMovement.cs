@@ -4,12 +4,17 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    [Header("Start Position")]
+    public Transform startingPos;
+
+    [Header("Basic Variables")]
     public float speed;
     public float maxSpeed;
     Rigidbody2D rb;
     public float jumpForce;
 
     //Raycast
+    [Header("Raycast")]
     [Range(0, 2)]
     public float raycastDistance;
     public LayerMask layerMask;
@@ -19,6 +24,7 @@ public class PlayerMovement : MonoBehaviour
     public Vector2[] derecha;
     public Vector2[] izquierda;
 
+    [Header("Timer")] 
     private bool timerOn;
     private float timer;
     public float Countdown;
@@ -27,33 +33,40 @@ public class PlayerMovement : MonoBehaviour
     bool rightObject;
 
 
+    [Header("Animator")]
+    public Animator animator;
+ 
+
+
 
     // Start is called before the first frame update
     void Start()
     {
+        transform.position = startingPos.position;
         rb = this.GetComponent<Rigidbody2D>();
+        animator = this.GetComponent <Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        transform.position += new Vector3(speed * Time.deltaTime, 0, 0);
-        if (Input.GetButtonDown("Jump"))
-        {
-            Jump();
-        }
 
+        Run();
+        Jump();
         Timer();
 
         if (leftObject || rightObject)
         {
             SpeedDown();
+            animator.SetBool("idle", true);
+            animator.SetBool("running", false);
         }
         else
         {
             SpeedUp();
+            animator.SetBool("idle", false);
+            animator.SetBool("running", true);
         }
-        Time.timeScale = 1f;
 
     }
 
@@ -115,14 +128,42 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    void Run()
+    {
+            transform.position += new Vector3(speed * Time.deltaTime, 0, 0);
+            animator.SetBool("running", true);
+        
+    }
     void Jump()
     {
+        if (Input.GetButtonDown("Jump"))
+        {
+            if (grounded)
+            {
+                rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+                animator.SetBool("jumping", true);
+            }
+        }
+        JumpAnimation();
+    }
+    void JumpAnimation()
+    {
+        if (!grounded)
+        {
+            animator.SetBool("jumping", false);
+        }
+        if(rb.velocity.y < 0)
+        {
+            animator.SetBool("jumping", false);
+            animator.SetBool("idle", false);
+            animator.SetBool("falling", true);
+        }
         if (grounded)
         {
-            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            animator.SetBool("falling", false);
+            animator.SetBool("idle", true);
         }
     }
-
     void SpeedUp()
     {
         if (speed < maxSpeed)

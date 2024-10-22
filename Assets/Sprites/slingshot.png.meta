@@ -152,7 +152,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slingshot_0: 3683170113380467368
+      slingshot_1: -6124897314201120650
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
